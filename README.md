@@ -11,3 +11,7 @@ Make all types of HTTP requests (GET, POST, PUT, DELETE)
 
 ## How to install Axios in React App
 npm install axios
+
+## Demo
+
+![Screenshot 2023-08-31 223506](https://github.com/Satyam-Rai-1/axios/assets/114327173/e91e2c55-e28c-4b70-82ea-5e75e56530f0)
